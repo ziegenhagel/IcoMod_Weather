@@ -14,7 +14,8 @@
         {
             "name": "privateKey",
             "type": "text",
-            "default": "Get your key from https://openweathermap.org/"
+            "default": "Get your key from https://openweathermap.org/",      
+            "description": "Get your key from https://openweathermap.org/"
         },
         {
             "name": "refreshTime",
